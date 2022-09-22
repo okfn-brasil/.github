@@ -37,7 +37,7 @@ Repositórios relacionados:
 
 
 <p align="center">
-  <img alt="Embaixadoras" src="images/embaixadoras-logo.png" width="200">
+  <img alt="Embaixadoras" src="profile/images/embaixadoras-logo.png" width="200">
 </p>
 
 Repositórios relacionados:
