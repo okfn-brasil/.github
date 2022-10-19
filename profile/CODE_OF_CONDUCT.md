@@ -2,6 +2,10 @@
 
 # Código de Conduta de Colaboração
 
+**A Open Knowledge Brasil** (OKBR) veda qualquer tipo de assédio ou conduta discriminatória em todos os seus espaços de funcionamento; entre todas as pessoas associadas, conselheiras, colaboradoras e parceiras; e em todos os eventos das quais for organizadora ou participar. Espera-se que associadas, conselheiras, colaboradoras, parceiras e participantes de eventos se comprometam com o cumprimento das diretrizes deste código, auxiliando no processo de prevenção de más condutas.
+
+A OKBR, por meio das lideranças de suas comunidades, por sua vez, compromete-se a promover um ambiente acolhedor e agradável, além de publicizar e aplicar estas recomendações, reforçando-as sempre que necessário. 
+
 ## Nossa promessa
 
 Como pessoas participantes, colaboradoras e líderes, nós nos comprometemos a fazer com que a participação em nossa comunidade seja uma experiência livre de assédio e com ambiente seguro para todas as pessoas, independentemente de idade, tamanho do corpo, deficiência aparente ou não aparente, etnia, características sexuais, identidade ou expressão de gênero, nível de experiência, educação, situação sócio-econômica, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexuais.
@@ -34,11 +38,11 @@ A liderança da comunidade tem o direito e a responsabilidade de remover, editar
 
 ## Escopo
 
-Este Código de Conduta se aplica dentro de todos os espaços da comunidade e também se aplica quando uma pessoa estiver representando oficialmente a comunidade em espaços públicos. Exemplos de representação da nossa comunidade incluem usar um endereço de e-mail oficial, postar em contas oficiais de mídias sociais ou atuar como uma pessoa indicada como representante em um evento online ou offline.
+Este Código de Conduta se aplica dentro de todos os espaços institucionais da OKBR e da comunidade em torno de seus projetos e também se aplica quando uma pessoa estiver representando oficialmente a comunidade em espaços públicos. Exemplos de representação da nossa comunidade incluem usar um endereço de e-mail oficial, postar em contas oficiais de mídias sociais ou atuar como uma pessoa indicada como representante em um evento online ou offline.
 
 ## Aplicação
 
-Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser relatados à liderança da comunidade em [contato@ok.org.br](mailto:contato@ok.org.br), que será responsável pela aplicação.
+Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser relatados à liderança da comunidade em [contato@ok.org.br](mailto:contato@ok.org.br), que será responsável pela aplicação e contará com a supervisão da direção executiva da OKBR. Para denúncias que envolvam diretamente a equipe executiva da OKBR, a manifestação pode ser encaminhada ao Conselho de Governança, que a tratará com a independência nacessária, em [denuncias@ok.org.br](mailto:denuncias@ok.org.br).  
 
 Todas as reclamações serão revisadas e investigadas imediatamente e de maneira justa.
 
@@ -70,7 +74,7 @@ A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade pa
 
 **Impacto na comunidade**: Demonstrar um padrão na violação das normas da comunidade, incluindo a persistência do comportamento impróprio, assédio a uma pessoa ou agressão ou depreciação a classes de pessoas.
 
-**Consequência**: Banimento permanente de qualquer tipo de interação pública dentro da comunidade.
+**Consequência**: Banimento permanente de qualquer tipo de interação pública dentro da comunidades. Se for uma pessoa associada, poderá perder essa condição, nos termos do [artigo 10 do estatuto da OKBR](https://ok.org.br/wp-content/uploads/2022/10/Estatuto_2022.pdf); se for prestadora de serviço, poderá ter seu contrato rescindido; caso seja parceiro, poderá ter seu vínculo cancelado; se for participante de evento, poderá ter sua inscrição cancelada, sem direito a reembolso.
 
 ## Atribuição
 
